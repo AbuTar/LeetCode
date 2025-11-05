@@ -24,9 +24,10 @@ Each solution typically includes:
 | Easy | `Longest Common Prefix/Solution.cs` | [https://leetcode.com/problems/longest-common-prefix/](https://leetcode.com/problems/longest-common-prefix/) |
 | Easy | `Merge Two Sorted Lists/Solution.cs` | [https://leetcode.com/problems/merge-two-sorted-lists/](https://leetcode.com/problems/merge-two-sorted-lists/) |
 | Easy | `Palindrome Number/Solution.cs` | [https://leetcode.com/problems/palindrome-number/](https://leetcode.com/problems/palindrome-number/) |
-| Easy | `Roman To Integer/Solution.cs` | [https://leetcode.com/problems/roman-to-integer/](https://leetcode.com/problems/roman-to-integer/) |
+| Easy | `Roman to Integer/Solution.cs` | [https://leetcode.com/problems/roman-to-integer/](https://leetcode.com/problems/roman-to-integer/) |
 | Easy | `Valid Anagram/Solution.cs` | [https://leetcode.com/problems/valid-anagram/](https://leetcode.com/problems/valid-anagram/) |
 | Easy | `Valid Parenthesis/Solution.cs` | [https://leetcode.com/problems/valid-parentheses/](https://leetcode.com/problems/valid-parentheses/) |
+| Easy | `Remove Duplicates from Sorted Array/Solution.cs` | [https://leetcode.com/problems/remove-duplicates-from-sorted-array/](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 
 | Folder | File | LeetCode Problem Link |
 | ------ | ---- | ---------------------- |
