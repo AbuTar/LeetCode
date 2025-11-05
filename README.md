@@ -28,6 +28,9 @@ Each solution typically includes:
 | Easy | `Valid Anagram/Solution.cs` | [https://leetcode.com/problems/valid-anagram/](https://leetcode.com/problems/valid-anagram/) |
 | Easy | `Valid Parenthesis/Solution.cs` | [https://leetcode.com/problems/valid-parentheses/](https://leetcode.com/problems/valid-parentheses/) |
 | Easy | `Remove Duplicates from Sorted Array/Solution.cs` | [https://leetcode.com/problems/remove-duplicates-from-sorted-array/](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| Easy | `Remove Element/Solution.cs` | [https://leetcode.com/problems/remove-element/](https://leetcode.com/problems/remove-element/) |
+
+
 
 | Folder | File | LeetCode Problem Link |
 | ------ | ---- | ---------------------- |
