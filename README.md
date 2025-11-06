@@ -32,6 +32,7 @@ Each solution typically includes:
 | Easy | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/Remove%20Duplicates%20from%20Sorted%20Array/Solution.cs) |
 | Easy | [Remove Element](https://leetcode.com/problems/remove-element/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/Remove%20Element/Solution.cs) |
 | Easy | [Find the Index of the First Occurence in the String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/Find%20the%20Index%20of%20the%20First%20Occurence%20in%20the%20String/Solution.cs) |
+| Easy | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/Search%20Insert%20Position/Solution.cs) |
 
 
 ## Medium
