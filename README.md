@@ -17,29 +17,36 @@ Each solution typically includes:
 - LeetCode problem link
 - C# code implementation
 
-| Folder | File | LeetCode Problem Link |
-| ------ | ---- | ---------------------- |
-| Easy | `Two Sum/Solution.cs` | [https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/) |
-| Easy | `Contains Duplicates/Solution.cs` | [https://leetcode.com/problems/contains-duplicate/](https://leetcode.com/problems/contains-duplicate/) |
-| Easy | `Longest Common Prefix/Solution.cs` | [https://leetcode.com/problems/longest-common-prefix/](https://leetcode.com/problems/longest-common-prefix/) |
-| Easy | `Merge Two Sorted Lists/Solution.cs` | [https://leetcode.com/problems/merge-two-sorted-lists/](https://leetcode.com/problems/merge-two-sorted-lists/) |
-| Easy | `Palindrome Number/Solution.cs` | [https://leetcode.com/problems/palindrome-number/](https://leetcode.com/problems/palindrome-number/) |
-| Easy | `Roman to Integer/Solution.cs` | [https://leetcode.com/problems/roman-to-integer/](https://leetcode.com/problems/roman-to-integer/) |
-| Easy | `Valid Anagram/Solution.cs` | [https://leetcode.com/problems/valid-anagram/](https://leetcode.com/problems/valid-anagram/) |
-| Easy | `Valid Parenthesis/Solution.cs` | [https://leetcode.com/problems/valid-parentheses/](https://leetcode.com/problems/valid-parentheses/) |
-| Easy | `Remove Duplicates from Sorted Array/Solution.cs` | [https://leetcode.com/problems/remove-duplicates-from-sorted-array/](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
-| Easy | `Remove Element/Solution.cs` | [https://leetcode.com/problems/remove-element/](https://leetcode.com/problems/remove-element/) |
-| Easy | `Find the Index of the First Occurence in the String/Solution.cs` | [https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
+## Easy
+
+| Folder | Problem | File | LeetCode Problem Link |
+| ------- | -------- | ---- | -------------------- |
+| Easy | Two Sum | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/Two%20Sum/Solution.cs) | [LeetCode](https://leetcode.com/problems/two-sum/) |
+| Easy | Contains Duplicates | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/Contains%20Duplicates/Solution.cs) | [LeetCode](https://leetcode.com/problems/contains-duplicate/) |
+| Easy | Longest Common Prefix | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/Longest%20Common%20Prefix/Solution.cs) | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) |
+| Easy | Merge Two Sorted Lists | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/Merge%20Two%20Sorted%20Lists/Solution.cs) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) |
+| Easy | Palindrome Number | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/Palindrome%20Number/Solution.cs) | [LeetCode](https://leetcode.com/problems/palindrome-number/) |
+| Easy | Roman to Integer | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/Roman%20to%20Integer/Solution.cs) | [LeetCode](https://leetcode.com/problems/roman-to-integer/) |
+| Easy | Valid Anagram | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/Valid%20Anagram/Solution.cs) | [LeetCode](https://leetcode.com/problems/valid-anagram/) |
+| Easy | Valid Parenthesis | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/Valid%20Parenthesis/Solution.cs) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) |
+| Easy | Remove Duplicates from Sorted Array | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/Remove%20Duplicates%20from%20Sorted%20Array/Solution.cs) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| Easy | Remove Element | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/Remove%20Element/Solution.cs) | [LeetCode](https://leetcode.com/problems/remove-element/) |
+| Easy | Find the Index of the First Occurence in the String | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/Find%20the%20Index%20of%20the%20First%20Occurence%20in%20the%20String/Solution.cs) | [LeetCode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
 
 
+## Medium
 
-| Folder | File | LeetCode Problem Link |
-| ------ | ---- | ---------------------- |
-| Medium | - | - |
+| Folder | Problem | File | LeetCode Problem Link |
+| ------- | -------- | ---- | -------------------- |
+| Medium | - | - | - |
 
-| Folder | File | LeetCode Problem Link |
-| ------ | ---- | ---------------------- |
-| Hard | - | - |
+
+## Hard
+
+| Folder | Problem | File | LeetCode Problem Link |
+| ------- | -------- | ---- | -------------------- |
+| Hard | - | - | - |
+
 
 
 
