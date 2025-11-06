@@ -29,6 +29,7 @@ Each solution typically includes:
 | Easy | `Valid Parenthesis/Solution.cs` | [https://leetcode.com/problems/valid-parentheses/](https://leetcode.com/problems/valid-parentheses/) |
 | Easy | `Remove Duplicates from Sorted Array/Solution.cs` | [https://leetcode.com/problems/remove-duplicates-from-sorted-array/](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | Easy | `Remove Element/Solution.cs` | [https://leetcode.com/problems/remove-element/](https://leetcode.com/problems/remove-element/) |
+| Easy | `Find the Index of the First Occurence in the String/Solution.cs` | [https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
 
 
 
