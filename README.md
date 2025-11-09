@@ -35,6 +35,7 @@ Each solution typically includes:
 | Easy | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/35%29%20Search%20Insert%20Position/Solution.cs) |
 | Easy | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/58%29%20Length%20of%20Last%20Word/Solution.cs) |
 | Easy | [Plus One](https://leetcode.com/problems/plus-one/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/66%29%20Plus%20One/Solution.cs) |
+| Easy | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/67%29%20Add%20Binary/Solution.cs) |
 
 
 ## Medium
