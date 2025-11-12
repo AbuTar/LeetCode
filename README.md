@@ -37,6 +37,7 @@ Each solution typically includes:
 | [Plus One](https://leetcode.com/problems/plus-one/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/66%29%20Plus%20One/Solution.cs) |
 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/67%29%20Add%20Binary/Solution.cs) |
 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/sqrtx/Solution.cs) |
+| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/Climbing%20Stairs/Solution.cs) |
 
 
 ## Medium
