@@ -38,7 +38,7 @@ Each solution typically includes:
 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/67%29%20Add%20Binary/Solution.cs) |
 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/sqrtx/Solution.cs) |
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/Climbing%20Stairs/Solution.cs) |
-| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/Remove%20Duplicates%20from%20Sorted%20List/Solution.cs) |
+| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/%20Remove%20Duplicates%20from%20Sorted%20List/Solution.cs) |
 
 
 ## Medium
