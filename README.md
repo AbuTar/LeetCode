@@ -40,7 +40,7 @@ Each solution typically includes:
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/70%29%20Climbing%20Stairs/Solution.cs) |
 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/88%29%20Merge%20Sorted%20Array/Solution.cs) |
 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/94%29%20MBinary%20Tree%20Inorder%20Traversal/Solution.cs) |
->>>>>>> 7ccc808 (Completed 'Merged Sorted Array' and 'Binary Tree Inorder Traversal' Tasks)
+
 
 
 ## Medium
