@@ -37,8 +37,10 @@ Each solution typically includes:
 | [Plus One](https://leetcode.com/problems/plus-one/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/66%29%20Plus%20One/Solution.cs) |
 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/67%29%20Add%20Binary/Solution.cs) |
 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/sqrtx/Solution.cs) |
-| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/Climbing%20Stairs/Solution.cs) |
-| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/83%29%20Remove%20Duplicates%20from%20Sorted%20List/Solution.cs) |
+| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/70%29%20Climbing%20Stairs/Solution.cs) |
+| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/88%29%20Merge%20Sorted%20Array/Solution.cs) |
+| [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/94%29%20MBinary%20Tree%20Inorder%20Traversal/Solution.cs) |
+>>>>>>> 7ccc808 (Completed 'Merged Sorted Array' and 'Binary Tree Inorder Traversal' Tasks)
 
 
 ## Medium
