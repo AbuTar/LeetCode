@@ -41,6 +41,7 @@ Each solution typically includes:
 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/88%29%20Merge%20Sorted%20Array/Solution.cs) |
 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/94%29%20Binary%20Tree%20Inorder%20Traversal/Solution.cs) |
 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/100%29%20Same%20Tree/Solution.cs) |
+| [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/101%29%20Symmetric%20Tree/Solution.cs) |
 
 
 
