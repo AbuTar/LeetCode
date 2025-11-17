@@ -39,7 +39,8 @@ Each solution typically includes:
 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/sqrtx/Solution.cs) |
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/70%29%20Climbing%20Stairs/Solution.cs) |
 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/88%29%20Merge%20Sorted%20Array/Solution.cs) |
-| [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/94%29%20MBinary%20Tree%20Inorder%20Traversal/Solution.cs) |
+| [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/94%29%20Binary%20Tree%20Inorder%20Traversal/Solution.cs) |
+| [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/100%29%20Same%20Tree/Solution.cs) |
 
 
 
