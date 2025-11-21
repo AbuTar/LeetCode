@@ -43,7 +43,7 @@ Each solution typically includes:
 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/100%29%20Same%20Tree/Solution.cs) |
 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/101%29%20Symmetric%20Tree/Solution.cs) |
 | [Maximum Depth of Binary Tree ](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/104%29%20Maximum%20Depth%20of%20Binary%20Tree/Solution.cs) |
-| [Convert Sorted Array to Binary Tree ](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/108%29%20Convert%20Sorted%20Array%20to%20Binary%20Tree/Solution.cs) |
+| [Convert Sorted Array to Binary Tree ](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/108%29%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/Solution.cs) |
 
 
 
