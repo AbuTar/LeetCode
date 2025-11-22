@@ -44,6 +44,7 @@ Each solution typically includes:
 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/101%29%20Symmetric%20Tree/Solution.cs) |
 | [Maximum Depth of Binary Tree ](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/104%29%20Maximum%20Depth%20of%20Binary%20Tree/Solution.cs) |
 | [Convert Sorted Array to Binary Tree ](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/108%29%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/Solution.cs) |
+| [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/110%29%20Balanced%20Binary%20Tree/Solution.cs) |
 
 
 
