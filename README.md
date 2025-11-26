@@ -47,7 +47,7 @@ Each solution typically includes:
 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/110%29%20Balanced%20Binary%20Tree/Solution.cs) |
 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution.cs](https://github.com/AbuTar/LeetCode/tree/main/Easy/111%29%20Minium%20Depth%20of%20Binary%20Tree/Solution.cs) |
 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/112%29%20Path%20Sum/Solution.cs) |
-| [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/118%29%20Pascal%27%20s%20Triangle/Solution.cs) |
+| [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/118%29%20Pascal's%20Triangle/Solution.cs) |
 
 
 
