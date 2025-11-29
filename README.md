@@ -48,6 +48,8 @@ Each solution typically includes:
 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution.cs](https://github.com/AbuTar/LeetCode/tree/main/Easy/111%29%20Minium%20Depth%20of%20Binary%20Tree/Solution.cs) |
 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/112%29%20Path%20Sum/Solution.cs) |
 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/118%29%20Pascal's%20Triangle/Solution.cs) |
+| [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/119%29%20Pascal's%20Triangle%20II/Solution.cs) |
+
 
 
 
