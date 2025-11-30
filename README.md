@@ -49,6 +49,7 @@ Each solution typically includes:
 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/112%29%20Path%20Sum/Solution.cs) |
 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/118%29%20Pascal's%20Triangle/Solution.cs) |
 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/119%29%20Pascal's%20Triangle%20II/Solution.cs) |
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/121%29%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.cs) |
 
 
 
