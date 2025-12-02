@@ -51,6 +51,8 @@ Each solution typically includes:
 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/119%29%20Pascal's%20Triangle%20II/Solution.cs) |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/121%29%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.cs) |
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/125%29%20Valid%20Palindrome/Solution.cs) |
+| [Single Number](https://leetcode.com/problems/valid-palindrome/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/136%29%20Single%20Number/Solution.cs) |
+
 
 
 
