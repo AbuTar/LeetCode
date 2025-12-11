@@ -54,6 +54,7 @@ Each solution typically includes:
 | [Single Number](https://leetcode.com/problems/valid-palindrome/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/136%29%20Single%20Number/Solution.cs) |
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/141%29%20Linked%20List%20Cycle/Solution.cs) |
 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/144%29%20Binary%20Tree%20Preorder%20Traversal/Solution.cs) |
+| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Easy/144%29%20Binary%20Tree%20Postorder%20Traversal/Solution.cs) |
 
 
 
