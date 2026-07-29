@@ -68,7 +68,7 @@ Each solution typically includes:
 | Problem | File |
 | ------- | ---- |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Medium/2%29%20Add%20Two%20Numbers) |
-| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Medium/3%29%20Longest%20Substring%20Without%20Repeating%20Characters) |
+| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution.cs](https://github.com/AbuTar/LeetCode/blob/main/Medium/3%29%20Longest%20Substring%20Without%20Repeating%20Characters/) |
 
 
 ## Hard
